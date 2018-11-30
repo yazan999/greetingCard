@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    padding: 50px 100px;
+    border: 15px solid rgb(243, 46, 46);
+    margin: 25px; 
+    width: 250px;
+    background-image: url("../img/50-happy-birthday-quotes-thumb.jpg");
+    height: 350px;
+}
+
+
+
+header img {
+
+height: 50px;
+width: 70px;
+text-align: center;
+color: blueviolet;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, red serif;
+    color: rgb(22, 22, 94);
+    font-size: 50px;
+}
